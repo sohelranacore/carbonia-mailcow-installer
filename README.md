@@ -38,7 +38,7 @@ VPS control panel থেকে server IP-এর PTR record `mail.yourdomain.com`
 
 ```bash
 # Script download করো
-wget https://your-server/carbonia-mailcow-installer.sh
+wget https://github.com/sohelranacore/carbonia-mailcow-installer/carbonia-mailcow-installer.sh
 
 # Run করো
 sudo bash carbonia-mailcow-installer.sh
